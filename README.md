@@ -38,7 +38,6 @@ Welcome to our Chat App! This project consists of two main components: a client-
 3. Start the server: `npm start`
 
 ## Demo
-
 Visit our [website]([website_url_here](https://chat-app-five-teal.vercel.app/)) to see the Chat App in action!
 
 ![Chat App Demo](https://github.com/Bhupender2/chat-app/blob/main/client/src/images/chatapp1image.png)
@@ -47,4 +46,4 @@ Visit our [website]([website_url_here](https://chat-app-five-teal.vercel.app/)) 
 
 Feel free to contribute or provide feedback by opening an issue or pull request.
 
-Happy chatting! 🎉
+Thank You
